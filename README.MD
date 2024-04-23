@@ -4,3 +4,6 @@
 
 3. A screenshot showing RabbitMQ running 
 ![Screenshot of RabbitMQ](img/rabbitMQ.png "RabbitMQ.png")
+
+4. A screenshot showing the subscriber recieving what the publisher is sending
+![Screenshot sending and processing event](img/cargoRunPubXSubs.png "cargorRunPubXSubs")
